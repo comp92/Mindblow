@@ -1,0 +1,6 @@
+[package]
+name = "mind_blow"
+version = "0.1.0"
+authors = ["comp92 <dashaw92@gmail.com>"]
+
+[dependencies]
